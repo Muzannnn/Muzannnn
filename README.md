@@ -6,4 +6,6 @@ en apprendre plus sur le monde de la tech et de la direction que l'avenir prendr
 - 🌱 Toujours en savoir plus
 - 👯 Je dev principalement en php, js(html, css) et glua
 
+![Stat](https://komarev.com/ghpvc/?username=Muzannn&label=Profile%20views&color=blueviolet&style=flat)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muzannnn&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muzannnn&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
