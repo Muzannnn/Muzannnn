@@ -4,7 +4,7 @@ en apprendre plus sur le monde de la tech et de la direction que l'avenir prendr
 
 - 🔭 Avoir 12 millards de projets
 - 🌱 Toujours en savoir plus
-- 👯 Je dev principalement en php, js(html, css) et glua
+- 👯 Je dev principalement en php, js(html, css), vuejs, python et glua
 
 ![Stat](https://komarev.com/ghpvc/?username=Muzannn&label=Profile%20views&color=blueviolet&style=flat)
 
